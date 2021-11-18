@@ -6,7 +6,7 @@ Este projeto que consiste em utilizar da PokéAPI e desenvolver essa incrível P
 - Javascript
 - HTML
 - CSS
-
+## Layout do Projeto: :page_facing_up:
 ![Layout do Projeto](https://github.com/IgorSnake19/assets/blob/main/projeto-pokedex/pokedex.gif)
 
 :pushpin: Versão hospedada no Vercel:https://projeto-pokedex-topaz.vercel.app
